@@ -1,1 +1,2 @@
 # milestone_3
+DEXTR tool is a straightforward user interface (UI) for matplotlib-based annotations that can be used to extract segmentation masks from photos. The primary benefit of using this tool is its speed because, even for complicated objects (like the animals in the following image), segmentation masks can be acquired by annotating just the object's four extreme points (left, right, top, and bottom).
